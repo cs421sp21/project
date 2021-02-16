@@ -2,7 +2,7 @@
 
 A brief description of your project, what it is used for.
 
-**Advisors:** 
+**Advisors** 
 
 | Name | JHU Email | GitHub Username |
 | ---- | --------- | --------------- |
@@ -104,7 +104,3 @@ If the api is external, link to api documentation. If not describe your api incl
 ## Database
 
 Explaining what database (and version) has been used. Provide download links.
-
-## Licensing
-
-State what the license is and how to find the text version of the license.
